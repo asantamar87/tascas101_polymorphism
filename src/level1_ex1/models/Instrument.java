@@ -1,6 +1,6 @@
 package level1_ex1;
 
-abstract class Instrument {
+public abstract class Instrument {
     private String name;
     private double price;
 
@@ -26,7 +26,6 @@ abstract class Instrument {
     }
 
     public abstract void play();
-
 
 
     {
